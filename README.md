@@ -55,7 +55,7 @@ These preprocessing steps ensured that the input data was clean, uniform, and su
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mental-health-chatbot.git
+   git clone https://github.com/Nachiketa-Singamsetty/mental-health-chatbot.git
    ```
 2. Install the required dependencies:
    ```bash
